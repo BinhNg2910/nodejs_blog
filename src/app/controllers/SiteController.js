@@ -1,4 +1,4 @@
-class SiteController{
+class SiteController {
     // GET /
     home(req, res) {
         res.render('home');
